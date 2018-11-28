@@ -1,0 +1,11 @@
+.paper {
+  background: transparent;
+  padding: 1rem 0;
+  display: flex;
+
+  > div {
+    margin: 1rem;
+    display: flex;
+    justify-content: space-around;
+  }
+}
